@@ -1,0 +1,136 @@
+== Play
+
+=== Pre-game Practice
+
+. When possible, teams will have access to practice fields for calibration and testing throughout the competition.
+
+. Whenever there are dedicated independent fields for competition and practice, it is at the organizers' discretion if testing is allowed on the competition fields.
+
+=== Humans
+
+. Teams should designate one of their members as 'captain' and another as 'co-captain'. Only these two team members will be allowed access to the competition fields unless directed by a referee. Only the captain can interact with the robot during a scoring run.
+
+. The captain can move the robot only when they are told to do so by a referee.
+
+. Other team members (and any spectators) within the vicinity of the competition field must stand at least 150 cm away from the field unless directed by a referee.
+
+. No one is allowed to touch the fields intentionally during a scoring run.
+
+. All pre-mapping activities will immediately disqualify the robot for the round. Pre-mapping is the act of humans providing the robot with information about the field (e.g., location of obstacles, entrance to the evacuation zone, number of tiles after the evacuation zone, etc...) before the game.
+
+
+=== Start of Game
+
+. Each team has a maximum of 8 minutes for a game. The game includes the time for calibration and the scoring run.
+
+. Calibration is taking sensor readings and modifying the robot's programming to accommodate such sensor readings. Calibration does not count as pre-mapping.
+
+. The scoring run is defined as the time when the robot is moving autonomously to navigate the field, and the referee will record the scores.
+
+. A game begins at the scheduled starting time, whether or not the team is present or ready. Start times will be posted around the venue.
+
+. Once the game has begun, the robot is not permitted to leave the competition area.
+
+. Teams may calibrate their robot in as many locations as desired on the field, but the clock will continue to run. Robots are not permitted to move on their own while calibrating.
+
+. Once a team is ready to start a scoring run, the team must notify the referee. To start a scoring run, the robot is placed on the start tile of the course, as indicated by the referee. Once a scoring run has begun, no more calibration is permitted, including changing code/code selection.
+
+. Teams may choose not to calibrate the robot and immediately start the scoring run instead.
+
+. Individual tiles, obstacles, and other scoring elements may be removed, added, or changed when the robot starts moving; to prevent teams from pre-mapping the layout of the fields. These changes may happen based on a die rolled by the referee or with another method of randomization announced by the organizers. For a particular field during a round, the referee will ensure the difficulty of the field will be kept similar, and the maximum points are constant.
+
+=== Scoring Run
+
+. Robots will start behind the joint of the start tile and the subsequent tile along the course. The referee will check the correct placement.
+
+. Modifying the robot during a scoring run is prohibited, which includes remounting parts that have fallen off.
+
+. Any parts the robot loses intentionally or unintentionally will be left in the field until the run is over. Team members and referees cannot move or remove elements from the field during a scoring run.
+
+. Teams cannot give their robot any information about the field. A robot is supposed to recognize the field elements by itself.
+
+. The robot must follow the course completely to enter the evacuation zone and then out of the evacuation zone towards the goal tile.
+
+. The robot has reached a tile when more than half the robot is within that tile when viewed from above and robot is actively following the line at that point in time.
+
+[[loc]]
+=== Lack of Progress
+
+. A lack of progress occurs when:
+.. a team captain declares a lack of progress.
+.. a robot loses the black line without regaining it by the next tile in the sequence (see figures at the end of the section).
+.. a robot reaches a line that is not in the intended sequence.
+
+. If a lack of progress occurs, the robot must be positioned on the previous checkpoint tile facing the path towards the goal tile and checked by the referee.
+
+. After a lack of progress, only the LoP procedure explained to the referee before the run start is allowed to be performed (see <<construction>>).
+
+. There is no limit to the lack of progress within a round.
+
+. After three failed attempts to reach a checkpoint, a robot is allowed to proceed to the next checkpoint.
+.. The team captain may make further attempts at the course to earn additional points from scoring elements that have not already been earned before reaching the next checkpoint.
+
+. Suppose a lack of progress occurs in the evacuation zone. In that case, all victims (including ones that have rolled) will remain in their current position. Victims that are held by the robot will be placed roughly on the robot's location when a lack of progress occurs in the evacuation zone. Suppose a lack of progress occurs as the robot exits the evacuation zone while carrying victims. In that case, the victims will be randomly placed in the evacuation zone.
+
+. Any seesaws ahead of the robot's path can be moved in a favorable direction when a lack of progress is called.
+
+[.text-center]
+image::media/lack_of_progress.png[LACK,width=900,pdfwidth=90%,align=center]
+
+=== Scoring
+
+. A robot is awarded points for successfully navigating each tile with hazards (gaps in the line, speed bumps, intersections, dead ends, ramps, obstacles, and seesaws). Points are awarded per hazard when the robot has reached the next tile in sequence. A ramp as a hazard accounts for all inclined tiles that make up one ramp. Point allocations are 10 points per tile with one or more gaps, 10 points per tile with one or more speed bumps, 10 points per intersection/dead end, 10 points per ramp, 20 points per obstacle, and 20 points per seesaw.
+
+. Failed attempts at navigating hazards in the field are defined as a Lack of Progress (see <<loc>>).
+
+. When a robot reaches a checkpoint tile or stops on the goal tile, it will earn points for each tile it has passed since the previous checkpoint. The points per tile depend on how many attempts the robot has made:
+*	1st attempt = 5 points/tile
+*	2nd attempt = 3 points/tile
+*	3rd attempt = 1 point/tile
+*	Beyond the 3rd attempt = 0 points/tile
++
+[.text-center]
+image::media/tile_scoring_example_1r.png[SCORINGEX1,width=700,pdfwidth=70%,align=center]
+image::media/tile_scoring_example_2x.png[SCORINGEX2,width=800,pdfwidth=90%,align=center]
+
+
+. Each gap, speed bump, intersection, dead end, ramp, obstacle, and seesaw can only be scored once per intended direction through the course. Points are not awarded for subsequent attempts through the course.
+
+. The referees will not count any hazards in the evacuation zone towards additional points.
+
+. Successful victim rescue (SVR): Robots are awarded multipliers for successfully rescuing victims. A successful victim rescue occurs when the victim is entirely moved into the designated evacuation point, and no part of the robot can be in contact with the victim. When the referee determines there has been a successful victim rescue, the referee will remove the victim from the evacuation point to allow more victims to be evacuated. The multipliers are allocated as such:
+
+*  (SLVR) = × 1.4 per successful rescue of a living victim.
+*  (SDVR) = × 1.4 per successful rescue of the dead victim if both living victims have already been successfully evacuated.
+
+. Only the victims placed by the robot at the appropriate evacuation point will be awarded multipliers.
+
+. When a lack of progress occurs between checkpoints (or a checkpoint and the goal) containing an evacuation zone, each of the (SVR) obtained multipliers will be deducted:
+
+.. (EZLP) = -0.05 x (number of lack of progresses in the area containing an evacuation zone)
+
+. Multipliers earned for successful victim rescues will never be lower than 1.25.
+
+. The evacuation zone multiplier is, thus, combined as:
++
+ (EVACUATION ZONE MULTIPLIER) = 
+    ((SLVR)+(EZLP))_1             | Successful rescue of the first living victim
+  x ((SLVR)+(EZLP))_2             | Successful rescue of the second living victim
+  x ((SDVR)+(EZLP))               | Successful rescue the dead victim 
+
+. An exit bonus is awarded when the robot has reached the goal tile and has completely stopped for more than 5 seconds (this time is included in the total 8 minutes). The exit bonus is a non-negative number and is given by 
++
+ (EXIT BONUS) = 60 - 5 × (number of total lack of progress)
+
+. The multipliers from successful evacuations are multiplied by the score obtained from the line tracing course. 
++
+ (FIELD SCORE) = (LINE TRACING SCORE + EXIT BONUS) x (EVACUATION ZONE MULTIPLIER)
+
+=== End of Game
+
+. A team may elect to stop the game early at any time. In this case, the team captain must indicate the team's desire to terminate the game to the referee. The team will be awarded all points earned up to the call for the end of the game. The referee will stop the time at the end of the game, which will be recorded as the game time.
+
+. The game ends when:
+.. the 8 minutes of allowed game time expires
+.. the team captain calls the end of the game
+.. the robot reaches the goal tile and completely stops for 5 seconds

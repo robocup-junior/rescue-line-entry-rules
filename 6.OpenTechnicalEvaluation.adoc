@@ -1,0 +1,43 @@
+== Open Technical Evaluation
+
+=== Description
+
+. The organizers will evaluate your technical innovation during a dedicated time frame. All teams need to prepare for an open display during this time frame.
+
+. Judges will circulate and interact with the teams. The Open Technical Evaluation is intended to be a casual conversation with a question-and-answer atmosphere.
+
+. The Open Technical Evaluation's main objective is to emphasize the innovation's ingenuity. Innovative may mean technical advances compared to existing knowledge or an out-of-the-ordinary, simple but clever solution to existing tasks.
+
+=== Evaluation Aspects
+
+. A standardized rubric system will be used, focusing on:
+* creativity
+* cleverness
+* simplicity
+* functionality
+
+. Your 'work' can include (but is not limited to) one of the following aspects:
+* creation of your own sensor instead of a pre-built sensor
+* creation of a 'sensor module' which is comprised of various electronics resulting in a self-contained module to provide a specific functionality
+* creation of a mechanical invention that is functional but out of the ordinary
+* creation of a new software algorithm for a solution
+
+=== Documents
+
+. Teams must provide documents that explain their work. Each invention must be supported by concise but clear documentation. The documents must show precise steps towards the creation of the invention.
+
+. The deadline for delivering the documents is scheduled for 3 weeks before the first day of the competition through an online form.
+
+. Documents must include one Technical Description Paper (TDP), one Poster and one {~~Engineering Journal~>Video~~}. Teams should be prepared to explain their work.
+
+. All teams must submit their TDP before the competition. The TDP is a public document that will be shared with the community. {~~TDP should describe your team's project planning, robot's mechanical and electronics design, your software architecture and solutions and, the applied process on performance evaluation.~>The competition organizer will ask the team to fill out the web form or ask to submit a PDF file. All teams must strictly follow the guidance on the web form or, in the case of PDF submissions, strictly follow the template provided. If a team does not follow this guidance / template (including  but  not  limited to the different sections, fonts, sizes and lengths) the score for the document will be 0 and is not going to be evaluated.~~} A template for the TDP and rubrics are available on the https://rescue.rcj.cloud/documents/[RoboCupJunior Rescue Community Website]. {--Engineering Journals should demonstrate your best practices in the development process. A guide for the Engineering Journal format and rubrics are available on the https://junior.robocup.org/rcj-rescue-line/[RoboCupJunior Official website].--}
+
+. All teams must submit a Poster file before the competition and bring a physical Poster to the competition venue. The Poster is a public document that will be shared with the community during the Poster Presentation session at the competiiton venue. The poster should include but is not limited to: the name of the team, country, league, robot description, robot capabilities, controller, the programming language used, sensors included, method of construction, time used for development, cost of materials, and awards won by the team in its country, etc. A guide for the poster format and rubrics are available on the https://rescue.rcj.cloud/documents/[RoboCupJunior Rescue Community Website].
+
+. {++All teams must create and submit a Video before the competition. The Video should be short and showcasing the work of the team. These videos will be presented during the competition and should summarize the key aspects of the team's project, design process, and innovations. A guide for the video format and rubrics are available on the https://rescue.rcj.cloud/documents/[RoboCupJunior Rescue Community Website].++}
+
+=== Sharing
+
+. Teams are encouraged to review others' posters, TDPs and presentations.
+
+. Teams awarded certificates must post their documents and presentation online when the RoboCupJunior Rescue Committee asks.

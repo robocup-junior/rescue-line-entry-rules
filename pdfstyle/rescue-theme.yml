@@ -1,0 +1,40 @@
+extends: default
+page:
+  layout: portrait
+  margin: [0.75in, 0.5in, 0.75in, 0.5in]
+  size: A4
+base:
+  font_color: #000000
+header:
+  height: 0.75in
+  image-vertical-align: 2 # # (1)
+  recto:
+    right:
+      content: image:robocup-header.png[width=300]
+  verso:
+    right:
+      content: $header-recto-right-content
+footer:
+  height: 0.5in
+  recto:
+    left:
+      content: 'Last updated: {docdate}'
+    right:
+      content: 'Page {page-number} of {page-count}'
+  verso:
+    left:
+      content: $footer-recto-left-content
+    right:
+      content: $footer-recto-right-content
+role:
+  red:
+    font-color: #ff0000
+  numbered:
+    font-color: #ff0000
+    margin-left: -50px
+image:
+  align: center
+caption:
+  align: center
+table:
+  head_background_color: ededed

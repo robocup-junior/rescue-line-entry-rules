@@ -1,0 +1,21 @@
+== Conflict Resolution
+
+=== Referee and Referee Assistant
+
+. All decisions during gameplay are made by the referee or the referee assistant, who are in charge of the field, persons, and objects surrounding them.
+
+. During gameplay, the decisions made by the referee or the referee assistant are final.
+
+. After gameplay, the referee will ask the captain to sign the score sheet. Captains will be given a maximum of 1 minute to review the score sheet and sign it. By signing the score sheet, the captain accepts the final score on behalf of the entire team. In case of further clarification, the team captain should write their comments on the score sheet and sign it.
+
+=== Rule Clarification
+
+. If any rule clarification is needed, please contact the https://junior.robocup.org/community/[International RoboCupJunior Rescue Committee] through the https://junior.forum.robocup.org/c/robocupjunior-rescue[RoboCupJunior Forum].
+
+. If necessary, even during a tournament, a rule clarification may be made by members of the https://junior.robocup.org/community/[International RoboCupJunior Rescue Committee].
+
+=== Special Circumstances
+
+. [[rule-modified]]If particular circumstances, such as unforeseen problems or capabilities of a robot occurs, rules may be modified by the RoboCupJunior Rescue Committee Chair in conjunction with available committee members, even during a tournament.
+
+. Suppose team captains/mentors do not attend the team meetings to discuss problems, and the resulting rule modifications described at <<rule-modified,1.>>. In that case, the organizers will understand that they agreed and were aware of the changes.

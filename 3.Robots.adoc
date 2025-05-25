@@ -1,0 +1,86 @@
+== Robots
+
+=== {++Terms and Definitions++}
+
+. *Tool:* The term "tool" is a comprehensive concept that encompasses both hardware and software components essential for the operation of robots. These can include physical components such as sensors, actuators, or controllers, as well as software elements like algorithms or libraries.
+
+. *Calibration:* Calibration refers to the process in which a team intervenes to adjust or fine-tune the settings of a tool.
+
+. *Development:* Development refers to activities aimed at creating new solutions, technologies, or systems, as well as enhancing existing ones through innovation and creative problem-solving. In this case, for example, calibration is not considered development since it involves fine-tuning or configuring an existing system without introducing new features, technological advancements, or innovations.
+
+. Tools are allowed as long as they are developed by the team or when they cannot independently complete a task, or a part of a task, that enables the robot to earn points by sending a signal to the controller without further development (e.g., color sensors, cameras, or libraries necessary for sensor operation).
+
+. Tools which are not developed by the team, which can independently complete a task, or a part of a task, which enables the robot to earn points by sending a signal to the controller without further development (e.g., line-following sensors, AI cameras, OCR libraries) are prohibited.
+
+=== Control
+
+. Robots must be controlled autonomously. Using a remote control, manual control, or passing information (by external sensors, cables, wirelessly, etc.) to the robot is not allowed.
+
+. Robots must be started manually by the team captain.
+
+. Any pre-mapped type of dead reckoning (movements preprogrammed based on known locations or placement of features in the field) is prohibited.
+
+. Robots must not damage any part of the field in any way.
+
+[[construction]]
+=== Construction
+
+. Any robot kit or building blocks, either available on the market or built from raw hardware, may be used as long as the design and construction of the robot are primarily and substantially the students' original work.
+
+. Teams are not permitted to use commercially produced robot kits or sensors components specifically designed or marketed to complete any single primary task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament.  If there is any doubt, teams should consult the RoboCupJunior Rescue Committee before the competition.
+
+. Only lasers from classes 1 and 2 are allowed for the safety of participants and spectators. The organizers will check this during the inspection. Teams using lasers must have the datasheet of the laser and submit them before the competition and be able to show them during the competition.
+
+. Robots may incur damage by falling off the field, making contact with another robot, or contacting field elements.  The RoboCupJunior Rescue Committee cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are adequately protected with resistant materials. For example, teams must protect electrical circuits from all human contact and direct contact with other robots and field elements.
+
+. When batteries are transported, moved, or charged, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
+
+. *Robots must be equipped with a handle that is to be used to pick them up during the scoring run.*
+
+. *Robots must be equipped with a single physical binary switch/button (with exception of buttons that are a part of commercial controller), clearly visible to the referee, for starting the robot at the begining of the run and when a lack of progress occurs.  Procedure performed after LoP occurs can only include this button and at most one more switch for cutting the power. Team has to notify the referee about their LoP procedure before each scoring run, and only this procedure is allowed to be performed after a LoP.*
+
+. {++Robots like drones or hovercrafts are prohibited in the challenge due to safety reasons.++}
+
+=== Team
+
+. Each team must have only one robot on the field.
+
+. Each team must comply with the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] regarding the number of members and each member's age.
+
+. Each team member must explain their work and have a specific technical role.
+
+. A student can be registered on only one team across all RoboCupJunior leagues/sub-leagues.
+
+. A team can only participate in one league/sub-league across all RoboCupJunior leagues/sub-leagues.
+
+. Team members may compete in Rescue Line twice (2 international events). After competing in Rescue Line twice, they must move to another RoboCupJunior sub-league.
+
+. Mentors/parents are not allowed to be with the students during the competition. The students will have to govern themselves (without a mentor's supervision or assistance) during the long stretch of hours at the competition.
+
+=== Inspection
+
+. A panel of referees will scrutinize the robots before the start of the tournament and at other times during the competition to ensure that they meet the constraints described in these rules.
+
+. Using a robot similar to another team's robot from a previous year or the current year is illegal.
+
+. The team's responsibility is to have their robot re-inspected if modified at any time during the tournament.
+
+. Students will be asked to explain their robot's operation to verify that its construction and programming are their own work.
+
+. Students will be asked about their preparation efforts. The RoboCupJunior Rescue Committee may request them to answer surveys and participate in videotaped interviews for research purposes.
+
+. All teams must complete a web form before the competition to allow referees to prepare better for the interviews. The RoboCupJunior Rescue Committee will provide instructions on submitting the form to the teams at least 4 weeks before the competition.
+
+. All teams have to submit their source code before the competition. The organizers will not share the source code with other teams without the team's permission. The organizers will request permission at the registration.
+
+=== Violations
+
+. Any violations of the inspection rules will prevent the offending robot from competing until modifications are made, and the robot passes inspection.
+
+. Teams must make modifications within the schedule of the tournament, and teams cannot delay tournament play while making modifications.
+
+. Suppose a robot fails to meet all specifications (even with modifications). In that case, it will be disqualified from that game (but not from the tournament).
+
+. No mentor assistance is allowed during the competition. (See <<code-of-conduct>>)
+
+. Any rule violations may be penalized by disqualification from the tournament or the game or result in a loss of points at the discretion of the referees, officials, or RoboCupJunior Rescue Committee.

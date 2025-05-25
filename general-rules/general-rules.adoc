@@ -1,0 +1,197 @@
+== RoboCupJunior International 2025 General Rules
+
+These rules apply to the international RoboCupJunior competition.
+However, regional, super-regional, and local tournaments may have
+variations or adaptations to these rules to suit their specific
+competition needs. It is important to check with the organizers of the
+tournaments you are participating in to confirm which exact rules will
+be in use.
+
+If teams are unsure about any aspects of the General Rules or specific
+League Rules, they are encouraged to inquire via the official
+RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
+
+=== Team requirements
+
+==== Team Size
+*Minimum Team Size*: Teams must consist of at least 2 members.
+
+*Maximum Team Size*:
+
+* Soccer and Rescue Leagues: 4 members.
+
+* OnStage League: 5 members.
+
+*Shared Members and Robots*: No team member(s) or robot(s) may be
+shared between teams.
+
+*Junior Mentor Requirement*: Each Junior team must have at least 
+one Junior Mentor registered and attending with the team.
+
+==== Age Requirements
+
+*Junior Student Members:* Must be between 14 and 19 years old as of
+July 1 of the competition year.
+
+*Junior Mentors and Parent/Chaperones:* Must be 19 years or older as
+of the competition start date.
+
+==== Team Members
+
+*Entry Leagues*: RoboCupJunior Entry leagues and other "Primary"
+divisions (where minimum age may vary) are not run at the international
+competition but feature in many regions and SuperRegional tournaments.
+
+*Technical Roles*: Every team member must have a defined technical
+role (mechanical/design, electrical/sensing, software etc.) and should
+be able to explain their role during technical judging.
+
+=== Robot Requirements
+
+==== Robot Communication
+
+*Permitted Communication*: Communication between robots during
+gameplay is allowed as long as it uses the 2.4GHz spectrum and its power
+output does not exceed 100 mW EIRP under any circumstances.
+
+*Responsibility*: Teams are responsible for managing their robot
+communication. Spectrum availability is not guaranteed.
+
+*Component Communication*: Communication between components of the
+same robot is permitted under the general guidelines.
+
+*League Adaptability*: Each league may modify the robot communication
+rules to ensure they meet their specific requirements.
+
+==== Safety and Power Requirements
+
+*Electrical Power*:
+
+* Robots must not use mains electricity.
+
+* Maximum allowed voltage: 48V DC or 25V AC RMS.
+
+* Voltage must be easily measured during inspections, and measuring
+points must be covered for safety or designed with safety considerations
+in place.
+
+
+*Battery Safety*:
+
+* Lithium batteries must be stored in safety bags, and charging must be
+supervised by team members in competition areas.
+
+* Teams must follow safety protocols, including battery fire handling
+and evacuation procedures.
+
+*Robot Safety Design*:
+
+* *Power Management*: Secure batteries, safe wiring, and emergency stop
+functionality.
+
+* *Mechanical Safety*: No sharp edges, pinch points, or other hazards.
+Actuators must be appropriate for the robot’s size and function.
+
+* *Hazardous Behavior*: Teams must report potentially dangerous robot
+behaviors at least two weeks before the event.
+
+=== Documentation and Sharing requirements
+
+==== RCJ Team Posters
+
+*Purpose*: Posters are a tool for sharing robot designs and insights
+with judges, teams, and the public. Posters will be hung in public
+competition areas in the venue and digital copies or photographs will be
+shared by RCJ after the competition.
+
+*Size*: Posters must be no larger than A1 size (60 x 84 cm).
+
+*Content*: Posters should summarize design documents and present the
+robot’s capabilities in an engaging format.
+
+==== Technical Description Video (See League Documentation)
+
+*Content*:
+
+* *Robotic Demonstration*: Show fully functional robot systems to
+highlight technical aspects.
+
+* *Design Process*: Explain design choices and team problem-solving
+approaches.
+
+* *Presentation*: Clear and high-quality, explaining innovative or
+unusual techniques.
+
+* *Innovation & Sustainability*: Highlight new technologies and
+sustainable practices.
+
+*Submission*: Guidelines will specify video length and deadlines per
+league.
+
+==== Sharing Team Resources
+
+*Sharing*: Materials submitted by teams as part of the documentation
+submission will be shared on GitHub repositories for the leagues:
+https://github.com/robocup-junior
+
+*Credit*: Teams must credit creators of external work and adhere to
+licensing rules. The focus should remain on personal growth and
+learning.
+
+==== Plagiarism Guidelines
+
+*External Code Use*: Teams are allowed to use external code but must
+credit the original creators.
+
+*Learning Priority*: Teams should prioritize learning and not use
+complete solutions from others. Always pay attention to licensing rules.
+
+==== Bill of Materials (BOM)
+
+*Submission*: Teams must submit a BOM listing major components and
+materials used. 
+
+*Details*: The BOM must include:
+
+* Component name/description (e.g., part number).
+
+* Supplier/source of the component (including PCBs/machined
+components).
+
+* Status (new/reused).
+
+* Kit or custom-built.
+
+* Price.
+
+*Template*: A standardized BOM template will be provided with the
+league documentation submissions for the international competition.
+
+=== Spirit and Behavior
+
+==== Behavior
+
+All participants are expected to behave themselves and be considerate and polite
+especially but not only towards other participants, volunteers, referees and
+organizers of all Junior and Major Leagues as well as the host venue.
+
+==== Mentoring, Sponsorships and Component Reuse
+
+Support from other teams, mentors, teachers, parents, sponsors, internet
+communities etc. is a core part of how teams learn and grow. To ensure fair
+competition and maximize learning it is required that none of the support they
+receive does the work of competing for the team. A good indication is the team's
+ability to explain not only what their robots' components do but also how they
+do it.
+
+==== Onsite help
+
+Teams are only allowed to receive help from other teams during the competition.
+To this end only student team members are allowed into the student work area
+except with temporary organizer permission. Anyone else is forbidden from
+touching the robots or their code, especially for repairs, changes, programming.
+
+==== Violations
+
+Teams that repeatedly conduct themselves in an unacceptable way may be
+disqualified from the tournament and asked to leave the venue.
