@@ -171,7 +171,7 @@ The “Intermediate” level is more challenging than the Beginner level and is 
 
 Regional organizers may conduct competitions using either or both levels. They may also modify or combine these rules to create their own competition rules.
 
-In the Beginner, when the robot reaches a victim, it must inform humans of the victim‘s location and whether the victim is alive, then hand over the situation to humans.
+In the Beginner, when the robot reaches a victim, it must inform humans of the victim's location and whether the victim is alive, then hand over the situation to humans.
 
 In the Intermediate, when the robot reaches a victim, it must gently and carefully transport each one to a safe evacuation point where humans can take over the rescue. 
 
