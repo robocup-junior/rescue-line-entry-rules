@@ -35,78 +35,80 @@ endif::[]
 
 [.text-right]
 
-[cols="2,10,2", options="header"]
+[cols="4,3,4,3", options="header"]
 |===
-3+^|RoboCupJunior Rescue Committee 2025
+2+^|RoboCupJunior Rescue Entry League Sub-Committee 2025-2026
+2+^|RoboCupJunior Rescue Committee 2026
 
-|Chair
-|Diego Garza Rodriguez 
+|[Chair] Evan Bailey
+|Australia
+|[Chair] Diego Garza Rodriguez 
 |Mexico
 
-|
+|Elizabeth Mabrey
+|United States
 |Stefan Zauper
 |Austria
 
-|
+|Naomi Chikuma
+|Japan
 |Csaba Aban Jr.
 |Hungary
 
-|
+|Kanata Morimoto
+|Japan
 |Joann Patiño
 |Panama
 
-|
 |Ryo Unemoto
 |Japan
+|Mahmoud Madi
+|UAE
 
+|
 |
 |Alexander Jeddeloh
 |Germany
 
+|
 |
 |Gonzalo Zabala
 |Argentina
 
 
 |===
-
 [cols="4,3,4,3", options="header"]
 |===
-2+^|RoboCupJunior Exec 2025
+2+^|RoboCupJunior Exec 2026
 2+^|Trustees representing RoboCupJunior
-
-|Roberto Bonilla
-|USA
-|Luis José Lopez Lora
-|Mexico
 
 |Marek Šuppa
 |Slovakia
 |Julia Maurer
 |USA
 
-|Marco Dankel
+|Christian Häußler
 |Germany
-|
-|
+|Roberto Bonilla
+|USA
 
 |Margaux Edwards
 |Australia
 |
 |
 
-|Rui Baptista
-|Portugal
-|
-|
-
 |Tatiana Pazelli
 |Brazil
 |
-| 
+|
 
 |Tom Linnemann
 |Germany
+|
+|
+
+|William Plummer
+|Australia
 |
 |
 
@@ -123,7 +125,7 @@ endif::[]
 
 a|
 [link=https://junior.robocup.org/]
-image::media/officialsite.jpg[]
+image::media/officialsite.png[]
 [.text-center]
 https://junior.robocup.org[https://junior.robocup.org]
 a|
@@ -190,7 +192,7 @@ image::media/field_overview.png[FIELD,pdfwidth=100%,align=center]
 [discrete]
 == Summary
 
-An autonomous robot should follow a black line while overcoming problems in a modular field formed by tiles with diﬀerent patterns. The ﬂoor is white, and the tiles are on diﬀerent levels connected with ramps.
+An autonomous robot should follow a black line while overcoming problems in a modular field formed by tiles with diﬀerent patterns. The floor is white, and the tiles are on diﬀerent levels connected with ramps.
 
 Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the area by itself. The robot earns points as follows:
 
@@ -200,7 +202,7 @@ Teams are not allowed to give their robot any information in advance about the f
 * 10 points for each successfully navigated ramp tile .
 * 10 points for negotiating a tile with one or more speed bumps.
 If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. Last on the path, there will be a rectangular zone with walls (It’s called the evacuation zone). The evacuation zone is delimited in the entrance with a reflective silver tape strip attached to the ﬂoor.  
-【Begginer】 In the evacuation zone the robot has to identify the victim which has passed on the floor and an identification signal.   
+[Beginner]  In the evacuation zone the robot has to identify the victim which has passed on the floor and an identification signal.   
 [Intermediate]  In the evacuation zone the robot has to locate and transport the victims to the designated evacuation point. 
 
 <<<
