@@ -37,7 +37,7 @@ image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
 
 === Checkpoints
 
-. A checkpoint is a tile in which a robot will be manually placed back when a lack of progress (see 5.5) occurs.
+. A checkpoint is a tile in which a robot will be manually placed back when a lack of progress (see <<loc>>) occurs.
 
 . Checkpoints will not be located on tiles with scoring elements.
 
@@ -112,7 +112,7 @@ image::media/intersections_possibilities_2.png[INTER2,pdfwidth=90%,align=center]
 
 . [Intermediate] The referee can place the evacuation points in any non-entry corner.
 
-. [Intermediate] After a Lack of Progress (see 5.5) , the referee may place the evacuation points in new corners.
+. [Intermediate] After a Lack of Progress (see <<loc>>) , the referee may place the evacuation points in new corners.
 
 . [Intermediate] The organizers will fix the evacuation points to the floor. Still, teams should be prepared for slight movements in the evacuation points.
 
@@ -135,7 +135,7 @@ image::media/beginner_victims.png[BEGGINER_VICTIMS,pdfwidth=50%,align=center]
 . A victim is represented by a soft drink can. The size should be between 300 ml and 400 ml (approximately 12 oz), and it is recommended to use the most common type of soft drink can in the region. Its weight is between 300 g and 400 g (approximately 12 oz), too. The victim is covered with reflective silver material and is electrically conductive.
 . The number of victims may be decided by the competition organizer.
 . If a victim is knocked down by a robot, it must remain in place unless the team captain declares a Lack of Progress.  
-After the Lack of Progress is declared, the referee will restore the victim to its original upright position at its initial location.  (see Section 5.5, “Lack of Progress”).
+After the Lack of Progress is declared, the referee will restore the victim to its original upright position at its initial location.  (see <<loc>>).
 +
 [.text-center]
 image::media/intermediate_victim.png[INTERMEDIATE_VICTIM,pdfwidth=30%,align=center]
