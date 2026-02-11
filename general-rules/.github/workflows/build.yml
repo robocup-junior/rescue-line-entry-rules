@@ -1,0 +1,23 @@
+on: [push]
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: build the rules
+        run: |
+          docker run -v $(pwd):/documents asciidoctor/docker-asciidoctor asciidoctor general-rules.adoc
+          docker run -v $(pwd):/documents asciidoctor/docker-asciidoctor asciidoctor-pdf general-rules.adoc
+          mkdir -p dist/${GITHUB_REF#refs/heads/}/
+          cp -R *.html *.pdf dist/${GITHUB_REF#refs/heads/}/
+
+      - name: publish the rules
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN  }}
+          publish_dir: ./dist
+          keep_files: True

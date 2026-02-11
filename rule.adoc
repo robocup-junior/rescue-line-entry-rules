@@ -1,4 +1,4 @@
-= RoboCupJunior Rescue Line           Rules 2025
+= RoboCupJunior Rescue Line Entry           Rules 2026
 Last update: {docdate}
 :url-repo: https://gitlab.com/rcj-rescue-tc/line
 ////
@@ -146,13 +146,40 @@ WARNING: Corrections and clarifications to the rules may be posted on the forum 
 [discrete]
 == Before you read the rules
 
-IMPORTANT: Please read through the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] before proceeding with these rules, as they are the premise for all rules. The English rules published by the RoboCupJunior Rescue Committee are the only official rules for RoboCupJunior Rescue Line 2025. The translated versions each regional committee can publish are only referenced information for non-English speakers to understand the rules better. It is the responsibility of the teams to read and understand the official rules.
+IMPORTANT: Please read through the https://junior.robocup.org/robocupjunior-general-rules/[RoboCupJunior General Rules] before proceeding with these rules, as they are the premise for all rules. The English rules published by the RoboCupJunior Rescue Committee are the only official rules for RoboCupJunior Rescue Line Entry 2026. The translated versions each regional committee can publish are only referenced information for non-English speakers to understand the rules better. It is the responsibility of the teams to read and understand the official rules.
+These rules are designed as an introductory version for beginners. Please take care not to confuse them with other rule sets.
 
+[discrete]
+== Purpose and Scope
+
+This document provides a general framework and recommendations for organizing competitions.
+It is not intended to be prescriptive or exhaustive. Each local organizing committee may adapt or modify these guidelines flexibly to meet the needs and circumstances of their community.
+The guiding principle is this: challenges must enrich students’ learning and problem-solving—not become obstacles that cause failure due to excessive technicalities. Overly complex or rigid requirements risk shifting focus away from education and but just into rule compliance.
+Organizers are therefore encouraged to:
+* Prioritize student growth and exploration above strict technical constraints.
+* Ensure fairness while avoiding unnecessary complications.
+* Adapt challenge complexity so it motivates learning rather than discourages participation.  inadvertently creating a false sense of “trickery”. 
+
+By following these principles, competitions will remain true to their educational mission and provide meaningful, inspiring experiences for students.
+
+This rulebook defines two levels of competition.
+
+The “Beginner” level is intended for participants with 0–2 years of competition experience.
+
+The “Intermediate” level is more challenging than the Beginner level and is intended for participants with two or more years of competition experience.
+
+Regional organizers may conduct competitions using either or both levels. They may also modify or combine these rules to create their own competition rules.
+
+In the Beginner, when the robot reaches a victim, it must inform humans of the victim‘s location and whether the victim is alive, then hand over the situation to humans.
+
+In the Intermediate, when the robot reaches a victim, it must gently and carefully transport each one to a safe evacuation point where humans can take over the rescue. 
 
 [discrete]
 == Scenario
 
-The land is too dangerous for humans to reach the victims. Your team has been given a difficult task. The robot must be able to carry out a rescue mission in a fully autonomous mode with no human assistance. The robot must be durable and intelligent enough to navigate treacherous terrain with hills, uneven land, and rubble without getting stuck. When the robot reaches the victims, it has to gently and carefully transport each one to the safe evacuation point where humans can take over the rescue. The robot should exit the evacuation zone after a successful rescue to continue its mission throughout the disaster scene until it leaves the site. Time and technical skills are essential! Come prepared to be the most successful rescue team.
+The land is too dangerous for humans to reach the victims. Your team has been given a difficult task. The robot must be able to carry out a rescue mission in a fully autonomous mode with no human assistance. The robot must be durable and intelligent enough to navigate treacherous terrain with hills, uneven land, and rubble without getting stuck. When the robot reaches the victims, it has to gently and carefully transport each one to the safe evacuation point where humans can take over the rescue. 
+
+Time and technical skills are essential! Come prepared to be the most successful rescue team.
 
 [.text-center]
 image::media/field_overview.png[FIELD,pdfwidth=100%,align=center]
@@ -162,31 +189,27 @@ image::media/field_overview.png[FIELD,pdfwidth=100%,align=center]
 [discrete]
 == Summary
 
-An autonomous robot should follow a black line while overcoming problems in a modular field formed by tiles with different patterns. The floor is white, and the tiles are on different levels connected with ramps.
+An autonomous robot should follow a black line while overcoming problems in a modular ﬁeld formed by tiles with diﬀerent patterns. The ﬂoor is white, and the tiles are on diﬀerent levels connected with ramps.
 
-Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the area by itself. The robot earns points as follows:
+Teams are not allowed to give their robot any information in advance about the ﬁeld as the robot is supposed to recognize the area by itself. The robot earns points as follows:
+*【Intermediate】 10 points for following the correct path on a tile at an intersection.
+*【Intermediate】 20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
+* 10 points for reacquiring the line after a tile with one or more gaps.
+* 10 points for each successfully navigated ramp tile .
+* 10 points for negotiating a tile with one or more speed bumps.
+If the robot gets stuck in the ﬁeld, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. Last on the path, there will be a rectangular zone with walls (It’s called the evacuation zone). The evacuation zone is delimited in the entrance with a reﬂective silver tape strip attached to the ﬂoor.  
+【Begginer】 In the evacuation zone the robot has to identify the victim which has passed on the floor and an identification signal.   
+【Intermediate】 In the evacuation zone the robot has to locate and transport the victims to the designated evacuation point. 
 
-*	10 points for following the correct path on a tile at an intersection or a dead end.
-*	20 points for navigating through a seesaw tile.
-*	20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
-*	10 points for reacquiring the line after a tile with one or more gaps.
-*	10 points for {~~successfully navigating through a ramp (i.e., up or down successfully)~>for each successfully navigated ramp tile~~}.
-*	10 points for negotiating a tile with one or more speed bumps.
 
-If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. Somewhere on the path, there will be a rectangular zone with walls (the evacuation zone). The evacuation zone is delimited in the entrance with a reflective silver tape strip attached to the floor and the exit with a strip of black tape.
-
-Once in the evacuation zone, the robot should locate and transport the victims to the designated evacuation points. The victims are represented by spheres with an off-center center of mass of 4 to 5 cm in diameter. The live victims are reflective silver which is electrically conductive, and the dead victims are black, which is not electrically conductive.
-
-The team can earn multipliers for victim evacuations depending on the rescue order. Be prepared to face obstacles, speed bumps, and debris in the evacuation zone. Still, the robot will not score points by negotiating these difficulties here. The robot should then exit the evacuation zone and follow the line until the goal tile of the course is reached.
-
-<<<
-[discrete]
-=== Changes from the 2024 RoboCupJunior Rescue Line Rules
-- <<points-1, Changed 0.4 to 0.6>>
-- <<points-2, Changed "0.4 x (ENGINEERING JOURNAL SCORE) / (BEST ENGINEERING JOURNAL SCORE)" to "0.2 x (VIDEO SCORE) / (BEST VIDEO SCORE)">>
-- <<points-3, Changed "0.7" to "0.6">>
-- <<points-4, Changed 0.1 to "0.2">>
-{+-~TOC-CHANGES~-+}  
+// <<<
+// [discrete]
+// === Changes from the 2024 RoboCupJunior Rescue Line Rules
+// - <<points-1, Changed 0.4 to 0.6>>
+// - <<points-2, Changed "0.4 x (ENGINEERING JOURNAL SCORE) / (BEST ENGINEERING JOURNAL SCORE)" to "0.2 x (VIDEO SCORE) / (BEST VIDEO SCORE)">>
+// - <<points-3, Changed "0.7" to "0.6">>
+// - <<points-4, Changed 0.1 to "0.2">>
+// {+-~TOC-CHANGES~-+}  
 
 <<<
 toc::[]

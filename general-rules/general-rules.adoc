@@ -1,7 +1,7 @@
-== RoboCupJunior International 2025 General Rules
+== RoboCupJunior International 2026 General Rules
 
 These rules apply to the international RoboCupJunior competition.
-However, regional, super-regional, and local tournaments may have
+However, regional, SuperRegional, and local tournaments may have
 variations or adaptations to these rules to suit their specific
 competition needs. It is important to check with the organizers of the
 tournaments you are participating in to confirm which exact rules will
@@ -11,7 +11,10 @@ If teams are unsure about any aspects of the General Rules or specific
 League Rules, they are encouraged to inquire via the official
 RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 
-=== Team requirements
+For questions regarding any of the rules or RoboCupJunior in general, teams
+can also reach out to the RoboCupJunior community through the https://robocup-junior.github.io/soccer-rules/discord/[official Discord Server].
+
+=== Team Requirements
 
 ==== Team Size
 *Minimum Team Size*: Teams must consist of at least 2 members.
@@ -22,19 +25,27 @@ RoboCupJunior Forum for clarification: https://junior.forum.robocup.org/
 
 * OnStage League: 5 members.
 
+Regional and SuperRegional competitions may define their own team sizes depending on their venue capacity and regional variations. Teams attending the International competition will only be able to have the maximum number of registered participants in the qualifying team.
+
 *Shared Members and Robots*: No team member(s) or robot(s) may be
 shared between teams.
 
+==== Team Supervision
 *Junior Mentor Requirement*: Each Junior team must have at least 
 one Junior Mentor registered and attending with the team.
 
+Mentors and Parent/Chaperones are responsible for supervising their teams
+and maintain a duty of care/well being for their team members, as appropriate for their home region's regulations.
+Any concerns regarding team member welfare should be brought to the attention of the event organizers immediately.
+
+The Junior Mentor is expected to be present during all official competition events with their team.
+They must not interact in an imposing manner with teams, robots, judges, or the judging process. Any incident considered inappropriate will be handled by the event organizers and may lead to disciplinary actions.
+
 ==== Age Requirements
 
-*Junior Student Members:* Must be between 14 and 19 years old as of
-July 1 of the competition year.
+*Junior Student Members:* Must be between 14 and 19 years old as of July 1st of the competition year.
 
-*Junior Mentors and Parent/Chaperones:* Must be 19 years or older as
-of the competition start date.
+*Junior Mentors and Parent/Chaperones:* Must be 19 years or older as of July 1st of the competition year.
 
 ==== Team Members
 
@@ -46,19 +57,28 @@ competition but feature in many regions and SuperRegional tournaments.
 role (mechanical/design, electrical/sensing, software etc.) and should
 be able to explain their role during technical judging.
 
+=== International Team Qualification Process
+* To qualify for the International competition, each region’s Regional Representative will complete the Slot Allocation Process at the start of the Competition year. Regional Representatives can be found at the https://junior.robocup.org/gettingstarted/[Official Website].
+* After the region’s local qualifying tournament, the Regional Representative 
+will assign slots. Once confirmed by the RoboCupJunior organizers, the qualified teams will be invited to register through the official RoboCup Federation registration system.
+* The qualification process differs depending on the size of each region, 
+but slot allocation must strongly reflect results from regional competitions.
+* If a region does not use or releases its allocated slots, Regional Representatives 
+may request additional slots during a later stage of the allocation process.
+
 === Robot Requirements
 
 ==== Robot Communication
 
 *Permitted Communication*: Communication between robots during
 gameplay is allowed as long as it uses the 2.4GHz spectrum and its power
-output does not exceed 100 mW EIRP under any circumstances.
+output does not exceed 100 mW EIRP (Effective Isotropic Radiated Power) under any circumstances.
 
 *Responsibility*: Teams are responsible for managing their robot
 communication. Spectrum availability is not guaranteed.
 
 *Component Communication*: Communication between components of the
-same robot is permitted under the general guidelines.
+same robot is permitted.
 
 *League Adaptability*: Each league may modify the robot communication
 rules to ensure they meet their specific requirements.
@@ -69,7 +89,7 @@ rules to ensure they meet their specific requirements.
 
 * Robots must not use mains electricity.
 
-* Maximum allowed voltage: 48V DC or 25V AC RMS.
+* Maximum allowed voltage: 48V DC or 25V AC RMS (Root Mean Square).
 
 * Voltage must be easily measured during inspections, and measuring
 points must be covered for safety or designed with safety considerations
@@ -93,16 +113,16 @@ functionality.
 Actuators must be appropriate for the robot’s size and function.
 
 * *Hazardous Behavior*: Teams must report potentially dangerous robot
-behaviors at least two weeks before the event.
+behaviors at least two weeks before a RoboCupJunior event.
 
-=== Documentation and Sharing requirements
+=== Documentation and Sharing Requirements
 
-==== RCJ Team Posters
+==== RoboCupJunior Team Posters
 
 *Purpose*: Posters are a tool for sharing robot designs and insights
 with judges, teams, and the public. Posters will be hung in public
 competition areas in the venue and digital copies or photographs will be
-shared by RCJ after the competition.
+shared by RoboCupJunior after the competition.
 
 *Size*: Posters must be no larger than A1 size (60 x 84 cm).
 
@@ -148,7 +168,7 @@ complete solutions from others. Always pay attention to licensing rules.
 
 ==== Bill of Materials (BOM)
 
-*Submission*: Teams must submit a BOM listing major components and
+*Submission*: Teams must submit a BOM (Bill of Materials) listing major components and
 materials used. 
 
 *Details*: The BOM must include:
@@ -175,23 +195,28 @@ All participants are expected to behave themselves and be considerate and polite
 especially but not only towards other participants, volunteers, referees and
 organizers of all Junior and Major Leagues as well as the host venue.
 
-==== Mentoring, Sponsorships and Component Reuse
+==== Code of Conduct
+All organisers, volunteers, team members, mentors, supporters and visitors must abide by the RoboCup Federation Code of Conduct. Any instances where, a situation occurs that does not meet the code of conduct must be reported to a RoboCup Federation organisation member and will be investigated.
 
+==== Mentoring and Onsite Assistance
 Support from other teams, mentors, teachers, parents, sponsors, internet
-communities etc. is a core part of how teams learn and grow. To ensure fair
-competition and maximize learning it is required that none of the support they
+communities etc. is a core part of how teams learn and grow.
+
+To ensure fair competition and maximize learning it is required that none of the support they
 receive does the work of competing for the team. A good indication is the team's
 ability to explain not only what their robots' components do but also how they
 do it.
 
-==== Onsite help
-
-Teams are only allowed to receive help from other teams during the competition.
-To this end only student team members are allowed into the student work area
-except with temporary organizer permission. Anyone else is forbidden from
-touching the robots or their code, especially for repairs, changes, programming.
+==== Teams Onsite
+* During the competition, only the official team members (maximum 4/5 depending on league) 
+can represent the team at registration, setup-day, and have access to the competition areas for rounds and interviews. 
+* There must be at least 2 team members on-site, unless a team can present evidence of extenuating circumstances, including proof of travel for other team members. Teams where only one participant presents at the venue will be able to compete, but will not be eligible for finals or awards. 
+* It is the teams' responsibility to ensure that team member are present at the correct time and location for all scheduled activities.
+* Teams are not allowed to communicate with or receive help virtually from external parties with the intention of impacting the team's performance during the competition areas. Virtually communicating includes but is not limited to extended phone calls, video calls, remote desktop control etc.
+* Any team found to be in breach of these rules may be subject to disciplinary action.
+* Teams are recommended  to seek help from other teams, or organizers if they are struggling with any issues onsite.
 
 ==== Violations
 
-Teams that repeatedly conduct themselves in an unacceptable way may be
+Teams, Team Mentors/Supporters or Team Members that repeatedly conduct themselves in an unacceptable way or in violation to the General or League Rules may be
 disqualified from the tournament and asked to leave the venue.
