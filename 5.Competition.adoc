@@ -1,6 +1,6 @@
 == Competition
 
-This chapter outlines the structure of an international RoboCupJunior Rescue competition. The competition format and the inclusion of elements like rubrics based scoring, Technical Challenges and the SuperTeam Challenge may vary in local, regional and super-regional competitions. Please refer to the respective organiser for details.
+The competition format and the inclusion of elements like rubrics based scoring may vary in local, regional and super-regional competitions. Please refer to the respective organiser for details.
 
 === Rounds & Scoring
 
@@ -13,60 +13,3 @@ This chapter outlines the structure of an international RoboCupJunior Rescue com
 . The normalized field scores will be used to calculate the mean. The worst round(s) will not be considered here:
 +
  (MEAN OF NORMALIZED FIELD SCORES) = (SUM OF NORMALIZED FIELD SCORES EXCLUDING OMITTED ROUNDS) / (NUMBER OF ROUNDS - NUMBER OF OMITTED ROUNDS)
-
-. The normalized rubrics score is made up of a sum of normalized scores for the individual rubrics as follows:
-
-+
-[subs=normal,+post_replacements]
- (NORMALIZED RUBRICS SCORE) = 
-    [[points-1, Changed "0.4" to "0.6"]][red]#*0.6*# x (TDP SCORE) / (BEST TDP SCORE) 
-  + [[points-2, Changed "0.4 x (ENGINEERING JOURNAL SCORE) / (BEST ENGINEERING JOURNAL SCORE)" to "0.2 x (VIDEO SCORE) / (BEST VIDEO SCORE)"]][red]#*0.2 x (VIDEO SCORE) / (BEST VIDEO SCORE)*#
-  + 0.2 x (POSTER SCORE) / (BEST POSTER SCORE)
-
-. The Rubrics for TDP, {~~Engineering Journal~>Video~~} and Poster will be available on the RoboCupJunior website and the RCJ Rescue Community website.
-
-. The score from the Technical Challenge will be normalized with the score of the best team:
-+
- (NORMALIZED TECHNICAL CHALLENGE SCORE) = (TECHNICAL CHALLENGE SCORE) / (BEST TECHNICAL CHALLENGE SCORE)
-
-. The final score is made up of a weighted sum of normalized scores from the field score, the rubrics and the Technical Challenge as such:
-
-+
-[subs=normal,+post_replacements]
- (TOTAL SCORE) = 
-    [[points-3, Changed "0.7" to "0.6"]][red]#*0.6*# x (MEAN OF NORMALIZED FIELD SCORES)
-  + 0.2 x (NORMALIZED RUBRICS SCORE)
-  + [[points-4, Changed 0.1 to "0.2"]][red]#*0.2*# x (NORMALIZED TECHNICAL CHALLENGE SCORE)
-
-
-. Ties in scoring will be resolved based on the mean of normalized field scores.
-
-
-=== Technical Challenge
-
-The Technical Challenge is an additional part of the competition where the teams' ability to quickly modify the bahaviour of their robot will be tested. It consists of one or more mini-tasks with only a limited timespan to solve. 
-
-. The Technical Challenge will take place after the scoring runs have ended.
-
-. The rules of the individual parts of the Technical Challenge will not be announced before the competition. The teams will only have limited time to prepare for the Challenge.
-
-. The timeframe for the completion of these tasks will be announced alongside the rules and scoring at a team meeting after the scoring runs.
-
-. The rules will require the teams to reprogram their robot to change its behaviour. There will be no hardware changes required compared to the main scoring runs.
-
-. The time given will correspond to the difficulty level of the tasks.
-
-. {++Any external contact during the Technical Challenge is prohibited; non-team members are not allowed to take place on the competition area or to help the competitors remotely.++}
-
-
-=== SuperTeam Challenge
-
-The SuperTeam Challenge takes place independantly of the main competition and won't influence the team's individual score. It has its own award and is focussed on the cooperation between the teams. 
-
-. Each SuperTeam will consist of at least two teams. Teams coming from regions that share a native language will not be part of the same SuperTeam.
-
-. The rules of the SuperTeam Challenge will be announced at the competition and require the teams of each SuperTeam to work together. 
-
-. The SuperTeam Challenge will require substantial software changes and may require minor hardware adjustments.
-+
-NOTE: {++It is highly recommended that teams bring some kind of communication hardware or think about a communication mechanism for this challenge.++}
