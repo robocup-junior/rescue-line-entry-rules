@@ -194,14 +194,14 @@ An autonomous robot should follow a black line while overcoming problems in a mo
 
 Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the area by itself. The robot earns points as follows:
 
-* 【Intermediate】 10 points for following the correct path on a tile at an intersection.
-* 【Intermediate】 20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
+* [Intermediate]  10 points for following the correct path on a tile at an intersection.
+* [Intermediate]  20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
 * 10 points for reacquiring the line after a tile with one or more gaps.
 * 10 points for each successfully navigated ramp tile .
 * 10 points for negotiating a tile with one or more speed bumps.
 If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. Last on the path, there will be a rectangular zone with walls (It’s called the evacuation zone). The evacuation zone is delimited in the entrance with a reflective silver tape strip attached to the ﬂoor.  
 【Begginer】 In the evacuation zone the robot has to identify the victim which has passed on the floor and an identification signal.   
-【Intermediate】 In the evacuation zone the robot has to locate and transport the victims to the designated evacuation point. 
+[Intermediate]  In the evacuation zone the robot has to locate and transport the victims to the designated evacuation point. 
 
 <<<
 toc::[]
