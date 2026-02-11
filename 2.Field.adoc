@@ -81,8 +81,8 @@ This section is intended for Intermediate.
 
 [.text-center]
 image::media/intersections_path.png[INTER1,width=700,pdfwidth=70%,align=center]
-image::media/intersections_possibilities_1.png[INTER1,width=700,pdfwidth=70%,align=center]
-image::media/intersections_possibilities_2.png[INTER2,width=700,pdfwidth=70%,align=center]
+image::media/intersections_possibilities_1.png[INTER1,pdfwidth=80%,align=center]
+image::media/intersections_possibilities_2.png[INTER2,pdfwidth=90%,align=center]
 
 === Ramps
 
@@ -138,7 +138,7 @@ image::media/beginner_victims.png[BEGGINER_VICTIMS,pdfwidth=35%,align=center]
 After the Lack of Progress is declared, the referee will restore the victim to its original upright position at its initial location.  (see Section 5.5, “Lack of Progress”).
 +
 [.text-center]
-image::media/intermediate_victim.png[INTERMEDIATE_VICTIM,width=500,pdfwidth=50%,align=center]
+image::media/intermediate_victim.png[INTERMEDIATE_VICTIM,pdfwidth=30%,align=center]
 
 image::media/evac_zone.png[EVAC-ZONES,pdfwidth=90%,align=center]
 
