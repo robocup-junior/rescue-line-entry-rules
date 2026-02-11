@@ -126,9 +126,9 @@ image::media/intersections_possibilities_2.png[INTER2,width=700,pdfwidth=70%,ali
 ... Green victims represent people as living victims.
 ... Black victims represent dead victims.
 .. There may be objects that resemble victims in appearance but are not victims. This includes but is also not colors other than the ones described in this section. Such objects should not be identified as victims by robots.
-
++
 [.text-center]
-image::media/beginner_victims.png[BEGGINER_VICTIMS,width=500,pdfwidth=50%,align=center]
+image::media/beginner_victims.png[BEGGINER_VICTIMS,pdfwidth=35%,align=center]
 +
 . 【Intermediate】 
 1.	The organizers must place each victim at least 10 cm away from all walls and from the edge of the evacuation point.
@@ -136,10 +136,11 @@ image::media/beginner_victims.png[BEGGINER_VICTIMS,width=500,pdfwidth=50%,align=
 3.	The number of victims may be decided by the competition organizer.
 4.	If a victim is knocked down by a robot, it must remain in place unless the team captain declares a Lack of Progress.
 After the Lack of Progress is declared, the referee will restore the victim to its original upright position at its initial location.  (see Section 5.5, “Lack of Progress”).
-
++
 [.text-center]
 image::media/intermediate_victim.png[INTERMEDIATE_VICTIM,width=500,pdfwidth=50%,align=center]
-image::media/evac_zone.png[EVAC-ZONES,width=700,pdfwidth=70%,align=center]
+
+image::media/evac_zone.png[EVAC-ZONES,pdfwidth=90%,align=center]
 
 
 === Environmental Conditions

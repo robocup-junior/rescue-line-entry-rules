@@ -156,6 +156,7 @@ This document provides a general framework and recommendations for organizing co
 It is not intended to be prescriptive or exhaustive. Each local organizing committee may adapt or modify these guidelines flexibly to meet the needs and circumstances of their community.
 The guiding principle is this: challenges must enrich students’ learning and problem-solving—not become obstacles that cause failure due to excessive technicalities. Overly complex or rigid requirements risk shifting focus away from education and but just into rule compliance.
 Organizers are therefore encouraged to:
+
 * Prioritize student growth and exploration above strict technical constraints.
 * Ensure fairness while avoiding unnecessary complications.
 * Adapt challenge complexity so it motivates learning rather than discourages participation.  inadvertently creating a false sense of “trickery”. 
@@ -192,24 +193,15 @@ image::media/field_overview.png[FIELD,pdfwidth=100%,align=center]
 An autonomous robot should follow a black line while overcoming problems in a modular ﬁeld formed by tiles with diﬀerent patterns. The ﬂoor is white, and the tiles are on diﬀerent levels connected with ramps.
 
 Teams are not allowed to give their robot any information in advance about the ﬁeld as the robot is supposed to recognize the area by itself. The robot earns points as follows:
-*【Intermediate】 10 points for following the correct path on a tile at an intersection.
-*【Intermediate】 20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
+
+* 【Intermediate】 10 points for following the correct path on a tile at an intersection.
+* 【Intermediate】 20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
 * 10 points for reacquiring the line after a tile with one or more gaps.
 * 10 points for each successfully navigated ramp tile .
 * 10 points for negotiating a tile with one or more speed bumps.
 If the robot gets stuck in the ﬁeld, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. Last on the path, there will be a rectangular zone with walls (It’s called the evacuation zone). The evacuation zone is delimited in the entrance with a reﬂective silver tape strip attached to the ﬂoor.  
 【Begginer】 In the evacuation zone the robot has to identify the victim which has passed on the floor and an identification signal.   
 【Intermediate】 In the evacuation zone the robot has to locate and transport the victims to the designated evacuation point. 
-
-
-// <<<
-// [discrete]
-// === Changes from the 2024 RoboCupJunior Rescue Line Rules
-// - <<points-1, Changed 0.4 to 0.6>>
-// - <<points-2, Changed "0.4 x (ENGINEERING JOURNAL SCORE) / (BEST ENGINEERING JOURNAL SCORE)" to "0.2 x (VIDEO SCORE) / (BEST VIDEO SCORE)">>
-// - <<points-3, Changed "0.7" to "0.6">>
-// - <<points-4, Changed 0.1 to "0.2">>
-// {+-~TOC-CHANGES~-+}  
 
 <<<
 toc::[]
