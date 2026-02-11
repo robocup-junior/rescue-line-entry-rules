@@ -118,23 +118,23 @@ image::media/intersections_possibilities_2.png[INTER2,pdfwidth=90%,align=center]
 
 === Victims
 
-. 【Beginner】
-.. Organizers may locate victims anywhere on the floor of the evacuation zone. 
-.. A victim represents a person. Its minimum size is 30mm × 50mm and its maximum size is 50mm × 80mm. They are human shaped. The victims are printed on or attached to a floor. 
-.. The number of victims may be decided by the competition organizer.
-.. There are two types of victims.
-... Green victims represent people as living victims.
-... Black victims represent dead victims.
-.. There may be objects that resemble victims in appearance but are not victims. This includes but is also not colors other than the ones described in this section. Such objects should not be identified as victims by robots.
+==== 【Beginner】
+. Organizers may locate victims anywhere on the floor of the evacuation zone. 
+. A victim represents a person. Its minimum size is 30mm × 50mm and its maximum size is 50mm × 80mm. They are human shaped. The victims are printed on or attached to a floor. 
+. The number of victims may be decided by the competition organizer.
+. There are two types of victims.
+.. Green victims represent people as living victims.
+.. Black victims represent dead victims.
+. There may be objects that resemble victims in appearance but are not victims. This includes but is also not colors other than the ones described in this section. Such objects should not be identified as victims by robots.
 +
 [.text-center]
-image::media/beginner_victims.png[BEGGINER_VICTIMS,pdfwidth=35%,align=center]
-+
-. 【Intermediate】 
-1.	The organizers must place each victim at least 10 cm away from all walls and from the edge of the evacuation point.
-2.	A victim is represented by a soft drink can. The size should be between 300 ml and 400 ml (approximately 12 oz), and it is recommended to use the most common type of soft drink can in the region. Its weight is between 300 g and 400 g (approximately 12 oz), too. The victim is covered with reflective silver material and is electrically conductive.
-3.	The number of victims may be decided by the competition organizer.
-4.	If a victim is knocked down by a robot, it must remain in place unless the team captain declares a Lack of Progress.
+image::media/beginner_victims.png[BEGGINER_VICTIMS,pdfwidth=50%,align=center]
+
+==== 【Intermediate】 
+. The organizers must place each victim at least 10 cm away from all walls and from the edge of the evacuation point.
+. A victim is represented by a soft drink can. The size should be between 300 ml and 400 ml (approximately 12 oz), and it is recommended to use the most common type of soft drink can in the region. Its weight is between 300 g and 400 g (approximately 12 oz), too. The victim is covered with reflective silver material and is electrically conductive.
+. The number of victims may be decided by the competition organizer.
+. If a victim is knocked down by a robot, it must remain in place unless the team captain declares a Lack of Progress.  
 After the Lack of Progress is declared, the referee will restore the victim to its original upright position at its initial location.  (see Section 5.5, “Lack of Progress”).
 +
 [.text-center]
