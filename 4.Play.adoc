@@ -106,8 +106,8 @@ Points shall be awarded for each successful victim detection within the evacuati
 Each successful detection shall be worth 10 points.
 
 +
-The robot shall completely remove the victim from the green circle.
-The victim shall be considered detected only after it is fully outside the green circle. 
+The robot shall completely remove the victim from the Victim area.
+The victim shall be considered detected only after it is fully outside the Victim area. 
 +
 image::media/victim_placement.png[VICTIM_PLACEMENT,pdfwidth=80%,align=center]
 
