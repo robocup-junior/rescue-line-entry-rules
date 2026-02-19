@@ -16,7 +16,7 @@
 
 . Competitors should be aware that tiles may be mounted on thick backing or raised above the floor, which may make it difficult for a robot to return to the course (field) if it leaves the course. No provision will be made to assist a robot in returning to the field if it drives off the field.
 
-. [Intermediate] Robots must be designed to navigate under tiles that form bridges over other tiles. Tiles placed above other tiles will be supported by pillars at tile corners with a square cross-section of 25mm x 25mm, making each tile entrance 25 cm. The minimum height (space between the ﬂoor and the ceiling) will be 25 cm.
+. Robots must be designed to navigate under tiles that form bridges over other tiles. Tiles placed above other tiles will be supported by pillars at tile corners with a square cross-section of 25mm x 25mm, making each tile entrance 25 cm. The minimum height (space between the ﬂoor and the ceiling) will be 25 cm.
 
 
 [[field-line]]
@@ -55,34 +55,12 @@ image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
 . Speed bumps may also be placed anywhere in the evacuation zone.  Speed bumps in the evacuation zone are not scored.
 
 . A piece of debris will have a maximum height of 3 mm. The organizers will not fix it to the floor. The debris consists of small materials such as toothpicks, small wooden dowels, etc. There may be overlapping debris.
-
-. [Intermediate] 
-.. Obstacles may include bricks, blocks, weights, and other large, heavy items. Obstacles will be at least 15 cm high and can be fixed to the floor.
-.. An obstacle will not occupy more than one line or tile.
-.. A robot is expected to navigate around obstacles. The robot may move obstacles, but obstacles may be very heavy or fixed to the floor. Obstacles will remain where they were moved to, even if that prevents the robot from proceeding.
-.. Outside of the evacuation zone, obstacles will not be placed closer than 25 cm from the wall,the edge of the field (including edges of tiles that are elevated by ramps) and inclined tiles.
-.. In the evacuation zone, obstacles may be placed anywhere with at least 10 cm away from the wall and 25 cm away from the Evacuation Point. Obstacles in the evacuation zone are not scored.
-
-
-=== [Intermediate]  Intersections
-There are no intersections in Beginner.
-This section is intended for Intermediate.
-
-. The organizers can place intersections anywhere except in the evacuation zone.
-
-. Intersection markers are green and 25 mm x 25 mm in dimension. They indicate the direction of the path the robot should follow.
-
-. The robot should continue straight ahead if there is no green marker at an intersection.
-
-. The intersections are always perpendicular but may have 3 or 4 branches.
-
-. Intersection markers will be placed just before the intersection. See the images below for possible scenarios.
-
-
-[.text-center]
-image::media/intersections_path.png[INTER1,width=700,pdfwidth=70%,align=center]
-image::media/intersections_possibilities_1.png[INTER1,pdfwidth=80%,align=center]
-image::media/intersections_possibilities_2.png[INTER2,pdfwidth=90%,align=center]
+ 
+. Obstacles may include bricks, blocks, weights, and other large, heavy items. Obstacles will be at least 15 cm high and can be fixed to the floor.
+. An obstacle will not occupy more than one line or tile.
+. A robot is expected to navigate around obstacles. The robot may move obstacles, but obstacles may be very heavy or fixed to the floor. Obstacles will remain where they were moved to, even if that prevents the robot from proceeding.
+. Outside of the evacuation zone, obstacles will not be placed closer than 25 cm from the wall,the edge of the field (including edges of tiles that are elevated by ramps) and inclined tiles.
+. In the evacuation zone, obstacles may be placed anywhere with at least 10 cm away from the wall and 25 cm away from the Evacuation Point. Obstacles in the evacuation zone are not scored.
 
 === Ramps
 
@@ -104,33 +82,20 @@ image::media/intersections_possibilities_2.png[INTER2,pdfwidth=90%,align=center]
 
 . At the entrance to the evacuation zone, there is a 25 mm × 250 mm strip of reflective silver tape on the floor.
 
-. [Intermediate] The organizers may place an obstacle inside the evacuation zone.
+. The organizers may place an obstacle inside the evacuation zone.
 
-. [Intermediate] There is a victim area within the  evacuation zone. The victim area is a green circle with a diameter of 30 cm.
+. There is a victim area within the  evacuation zone. The victim area is a green circle with a diameter of 30 cm.
 
-. [Intermediate] There is at least one safe evacuation point in the evacuation zone. The evacuation point is a right-angled triangle measuring 30 cm × 30 cm, made of a flat, thin black board or paper with a thickness of 3 mm or less.
+. There is at least one safe evacuation point in the evacuation zone. The evacuation point is a right-angled triangle measuring 30 cm × 30 cm, made of a flat, thin black board or paper with a thickness of 3 mm or less.
 
-. [Intermediate] The referee can place the evacuation points in any non-entry corner.
+. The referee can place the evacuation points in any non-entry corner.
 
-. [Intermediate] After a Lack of Progress (see <<loc>>) , the referee may place the evacuation points in new corners.
+. After a Lack of Progress (see <<loc>>) , the referee may place the evacuation points in new corners.
 
-. [Intermediate] The organizers will fix the evacuation points to the floor. Still, teams should be prepared for slight movements in the evacuation points.
+. The organizers will fix the evacuation points to the floor. Still, teams should be prepared for slight movements in the evacuation points.
 
 === Victims
-
-==== [Beginner] 
-. Organizers may locate victims anywhere on the floor of the evacuation zone. 
-. A victim represents a person. Its minimum size is 30mm × 50mm and its maximum size is 50mm × 80mm. They are human shaped. The victims are printed on or attached to a floor. 
-. The number of victims may be decided by the competition organizer.
-. There are two types of victims.
-.. Green victims represent people as living victims.
-.. Black victims represent dead victims.
-. There may be objects that resemble victims in appearance but are not victims. This includes but is also not colors other than the ones described in this section. Such objects should not be identified as victims by robots.
-+
-[.text-center]
-image::media/beginner_victims.png[BEGGINER_VICTIMS,pdfwidth=50%,align=center]
-
-==== [Intermediate]  
+ 
 . The organizers must place each victim at least 10 cm away from all walls and from the edge of the evacuation point.
 . A victim is represented by a soft drink can. The size should be between 300 ml and 400 ml (approximately 12 oz), and it is recommended to use the most common type of soft drink can in the region. Its weight is between 300 g and 400 g (approximately 12 oz), too. The victim is covered with reflective silver material and is electrically conductive.
 . The number of victims may be decided by the competition organizer.
