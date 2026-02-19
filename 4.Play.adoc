@@ -21,9 +21,7 @@
 
 === Start of Game
 
-. [Intermediate]  Each team has a maximum of 6 minutes for a game. The game includes the time for calibration and the scoring run.
-
-. [Beginner]  Each team has a maximum of 4 minutes for a game. The game includes the time for calibration and the scoring run.
+. Each team has a maximum of 6 minutes for a game. The game includes the time for calibration and the scoring run.
 
 . Calibration is taking sensor readings and modifying the robot’s programming to accommodate such sensor readings. Calibration does not count as pre-mapping.
 
@@ -73,7 +71,7 @@
 . After three failed attempts to reach a checkpoint, a robot is allowed to proceed to the next checkpoint.
 The team captain may make further attempts at the course to earn additional points from scoring elements that have not already been earned before reaching the next checkpoint.
 
-. [Intermediate] If a lack of progress occurs in the evacuation zone, victims (including those that have rolled) shall be returned to any position within the victim area. Rescued victims are not returned. These positions are approximate and not required to be exact. Teams are not allowed to make any requests or complaints regarding the placement of the victims.
+. If a lack of progress occurs in the evacuation zone, victims (including those that have rolled) shall be returned to any position within the victim area. Rescued victims are not returned. These positions are approximate and not required to be exact. Teams are not allowed to make any requests or complaints regarding the placement of the victims.
 
 [.text-center]
 image::media/lack_of_progress.png[LACK,width=900,pdfwidth=90%,align=center]
@@ -107,15 +105,6 @@ image::media/tile_scoring_example_2x.png[SCORINGEX2,width=800,pdfwidth=90%,align
 Points shall be awarded for each successful victim detection within the evacuation zone.
 Each successful detection shall be worth 10 points.
 
-.. 【 Beginner】
-+
-The robot shall stop at the victim’s position and remain stationary while blinking a light clearly visible to the referee for a continuous duration of 5 seconds.
-+
-The blinking interval shall be ON 500 ms / OFF 500 ms.
-+
-Failure to comply with the specified blinking interval shall result in an unsuccessful detection.
-
-.. [Intermediate] 
 +
 The robot shall completely remove the victim from the green circle.
 The victim shall be considered detected only after it is fully outside the green circle. 
@@ -125,23 +114,9 @@ image::media/victim_placement.png[VICTIM_PLACEMENT,pdfwidth=80%,align=center]
 . Victim Rescue
 +
 Points shall be awarded for each successful victim rescue within the evacuation zone.
-
-.. [Beginner] 
-+
-A rescue shall be considered successful when the robot detects a victim and blinks the correct color light during the identification procedure.
-Each successful rescue shall be worth 10 points.
-If the robot blinks an incorrect color light for the same victim at any time, the rescue points for that victim shall be canceled.
-The robot shall stop at the victim and, while stationery, blink a light clearly visible to the referee for 5 seconds (see <<construction>>). 
-+
-The blinking interval shall be ON 500 ms / OFF 500 ms.
-
-... Green victim: green light
-...	Black victim: non-green light
-
-.. [Intermediate] 
 +
 A rescue shall be considered successful when the robot places the victim at the evacuation point and the victim (can) remains standing independently for 10 seconds after the robot has completely moved away.
-Each successful rescue shall be worth 10 points.
+Each successful rescue shall be worth 30 points.
 +
 image::media/evac_point_placement.png[EVAC_POINT_PLACEMENT,pdfwidth=80%,align=center]
 
@@ -150,8 +125,7 @@ image::media/evac_point_placement.png[EVAC_POINT_PLACEMENT,pdfwidth=80%,align=ce
 . A team may elect to stop the game early at any time. In this case, the team captain must indicate the team's desire to terminate the game to the referee. The team will be awarded all points earned up to the call for the end of the game. The referee will stop the time at the end of the game, which will be recorded as the game time.
 
 . The game ends when: 
-.. [Intermediate]   the 6 minutes of allowed game time expires 
-.. [Beginner]   the 4 minutes of allowed game time expires 
+.. The 6 minutes of allowed game time expires 
 .. The team captain calls the end of the game.
 .. The robot rescues all victims.
 
