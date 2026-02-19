@@ -165,17 +165,7 @@ Organizers are therefore encouraged to:
 
 By following these principles, competitions will remain true to their educational mission and provide meaningful, inspiring experiences for students.
 
-This rulebook defines two levels of competition.
-
-The “Beginner” level is intended for participants with 0–2 years of competition experience.
-
-The “Intermediate” level is more challenging than the Beginner level and is intended for participants with two or more years of competition experience.
-
-Regional organizers may conduct competitions using either or both levels. They may also modify or combine these rules to create their own competition rules.
-
-In the Beginner, when the robot reaches a victim, it must inform humans of the victim's location and whether the victim is alive, then hand over the situation to humans.
-
-In the Intermediate, when the robot reaches a victim, it must gently and carefully transport each one to a safe evacuation point where humans can take over the rescue. 
+When the robot reaches a victim, it must gently and carefully transport each one to a safe evacuation point where humans can take over the rescue. 
 
 [discrete]
 == Scenario
@@ -196,14 +186,15 @@ An autonomous robot should follow a black line while overcoming problems in a mo
 
 Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the area by itself. The robot earns points as follows:
 
-* [Intermediate]  10 points for following the correct path on a tile at an intersection.
-* [Intermediate]  20 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
+* 10 points for following the correct path on a tile at an intersection.
+* 10 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
 * 10 points for reacquiring the line after a tile with one or more gaps.
 * 10 points for each successfully navigated ramp tile .
 * 10 points for negotiating a tile with one or more speed bumps.
+* 10 points for each victim removed from the Victim area.(green circle).
+* 30 points for each victim successfully rescued.
 If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. Last on the path, there will be a rectangular zone with walls (It’s called the evacuation zone). The evacuation zone is delimited in the entrance with a reflective silver tape strip attached to the ﬂoor.  
-[Beginner]  In the evacuation zone the robot has to identify the victim which has passed on the floor and an identification signal.   
-[Intermediate]  In the evacuation zone the robot has to locate and transport the victims to the designated evacuation point. 
+In the evacuation zone the robot has to locate and transport the victims to the designated evacuation point. 
 
 <<<
 toc::[]
