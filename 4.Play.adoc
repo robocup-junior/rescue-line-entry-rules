@@ -78,7 +78,7 @@ image::media/lack_of_progress.png[LACK,width=900,pdfwidth=90%,align=center]
 
 === Scoring
 
-. A robot is awarded points for successfully navigating each tile with hazards (gaps in the line, speed bumps, intersections, ramps, and obstacles (Intermediate)). Points are awarded per hazard when the robot has reached the next tile in sequence. Point allocations are 10 points per tile with one or more gaps, 10 points per tile with one or more speed bumps, 10 points per intersection, 10 points per ramp. 20 points per obstacle.
+. A robot is awarded points for successfully navigating each tile with hazards (gaps in the line, speed bumps, intersections, ramps, and obstacles). Points are awarded per hazard when the robot has reached the next tile in sequence. Point allocations are 10 points per tile with one or more gaps, 10 points per tile with one or more speed bumps, 10 points per intersection, 10 points per ramp. 20 points per obstacle.
 
 . Failed attempts at navigating hazards in the field are defined as a Lack of Progress (see <<loc>>). However, if scoring elements are placed on two consecutive tiles and the robot is unable to reach the second tile due to its difficult placement, then successfully reaching the third tile will count as successfully achieving the scoring elements on both the first and second tiles simultaneously.
 
