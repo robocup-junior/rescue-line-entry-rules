@@ -28,7 +28,7 @@
 
 . The arrangement of the tiles and paths may vary between rounds.
 
-. The line will be at least 10 cm away from the edges of the field and elevated tiles, the pillars that support ramps or the floor raised by the ramp, walls, and (Intermediate only) obstacles that do not lie ahead of the robot’s path.
+. The line will be at least 10 cm away from the edges of the field and elevated tiles, the pillars that support ramps or the floor raised by the ramp, walls, and obstacles that do not lie ahead of the robot’s path.
 
 . The line will end the entrance of the evacuation zone with a 25 mm x 250 mm strip of silver tape. (see 3.8.3)
 
