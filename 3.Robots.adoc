@@ -1,17 +1,5 @@
 == Robots
 
-=== Terms and Definitions
-
-. *Tool:* The term "tool" is a comprehensive concept that encompasses both hardware and software components essential for the operation of robots. These can include physical components such as sensors, actuators, or controllers, as well as software elements like algorithms or libraries.
-
-. *Calibration:* Calibration refers to the process in which a team intervenes to adjust or fine-tune the settings of a tool.
-
-. *Development:* Development refers to activities aimed at creating new solutions, technologies, or systems, as well as enhancing existing ones through innovation and creative problem-solving. In this case, for example, calibration is not considered development since it involves fine-tuning or configuring an existing system without introducing new features, technological advancements, or innovations.
-
-. Tools are allowed as long as they are developed by the team or when they cannot independently complete a task, or a part of a task, that enables the robot to earn points by sending a signal to the controller without further development (e.g., color sensors, cameras, or libraries necessary for sensor operation).
-
-. Tools which are not developed by the team, which can independently complete a task, or a part of a task, which enables the robot to earn points by sending a signal to the controller without further development (e.g., line-following sensors, AI cameras, OCR libraries) are prohibited.
-
 === Control
 
 . Robots must be controlled autonomously. Using a remote control, manual control, or passing information (by external sensors, cables, wirelessly, etc.) to the robot is not allowed.
