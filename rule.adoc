@@ -167,6 +167,7 @@ By following these principles, competitions will remain true to their educationa
 
 When the robot reaches a victim, it must gently and carefully transport each one to a safe evacuation point where humans can take over the rescue. 
 
+<<<
 [discrete]
 == Scenario
 
