@@ -105,7 +105,7 @@ After the Lack of Progress is declared, the referee will restore the victim to i
 [.text-center]
 image::media/intermediate_victim.png[INTERMEDIATE_VICTIM,pdfwidth=30%,align=center]
 
-image::media/evac_zone.png[EVAC-ZONES,pdfwidth=90%,align=center]
+image::media/evac_zone.png[EVAC-ZONES,pdfwidth=70%,align=center]
 
 
 === Environmental Conditions

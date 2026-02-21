@@ -191,7 +191,7 @@ Teams are not allowed to give their robot any information in advance about the f
 * 10 points for reacquiring the line after a tile with one or more gaps.
 * 10 points for each successfully navigated ramp tile .
 * 10 points for negotiating a tile with one or more speed bumps.
-* 10 points for each victim removed from the Victim area.(green circle).
+* 10 points for each victim removed from the Victim area (green circle).
 * 30 points for each victim successfully rescued.
 If the robot gets stuck in the field, it can be restarted at the last visited checkpoint. The robot will earn points when it reaches new checkpoints. Last on the path, there will be a rectangular zone with walls (It’s called the evacuation zone). The evacuation zone is delimited in the entrance with a reflective silver tape strip attached to the ﬂoor.  
 In the evacuation zone the robot has to locate and transport the victims to the designated evacuation point. 
