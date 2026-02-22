@@ -28,9 +28,9 @@
 
 . The arrangement of the tiles and paths may vary between rounds.
 
-. The line will be at least 10 cm away from the edges of the field and elevated tiles, the pillars that support ramps or the floor raised by the ramp, walls, and (Intermediate only) obstacles that do not lie ahead of the robot’s path.
+. The line will be at least 10 cm away from the edges of the field and elevated tiles, the pillars that support ramps or the floor raised by the ramp, walls, and obstacles that do not lie ahead of the robot’s path.
 
-. The line will end the entrance of the evacuation zone with a 25 mm x 250 mm strip of silver tape. (see 3.8.3)
+. The line will end the entrance of the evacuation zone with a 25 mm x 250 mm strip of silver tape. (see 3.7.3)
 
 [.text-center]
 image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
@@ -59,7 +59,7 @@ image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
 . Obstacles may include bricks, blocks, weights, and other large, heavy items. Obstacles will be at least 15 cm high and can be fixed to the floor.
 . An obstacle will not occupy more than one line or tile.
 . A robot is expected to navigate around obstacles. The robot may move obstacles, but obstacles may be very heavy or fixed to the floor. Obstacles will remain where they were moved to, even if that prevents the robot from proceeding.
-. Outside of the evacuation zone, obstacles will not be placed closer than 25 cm from the wall,the edge of the field (including edges of tiles that are elevated by ramps) and inclined tiles.
+. Outside of the evacuation zone, obstacles will not be placed closer than 25 cm from the wall, the edge of the field (including edges of tiles that are elevated by ramps) and inclined tiles.
 . In the evacuation zone, obstacles may be placed anywhere with at least 10 cm away from the wall and 25 cm away from the Evacuation Point. Obstacles in the evacuation zone are not scored.
 
 === Ramps
@@ -69,7 +69,7 @@ image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
 . Ramps will not exceed an incline of 25 degrees from the horizontal.
 
 . The ramp points will be awarded for each individual ramp tile instead of the entire ramp.
-. The line along the ramps can contain gaps, speed bumps, debris, and (Intermediate only) intersections and obstacles.
+. The line along the ramps can contain gaps, speed bumps, debris, and intersections and obstacles.
 
 . The ramp must NOT have a drop-off immediately following a rise section, creating a peak-line structure or vice versa.
 
@@ -96,7 +96,8 @@ image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
 
 === Victims
  
-. The organizers must place each victim at least 10 cm away from all walls and from the edge of the evacuation point.
+. Victim(s) must be placed entirely within the victim area and may be positioned anywhere inside it.
+. The organizers must place the victim area at least 10 cm away from all walls and from the edge of the evacuation point.
 . A victim is represented by a soft drink can. The size should be between 300 ml and 400 ml (approximately 12 oz), and it is recommended to use the most common type of soft drink can in the region. Its weight is between 300 g and 400 g (approximately 12 oz), too. The victim is covered with reflective silver material and is electrically conductive.
 . The number of victims may be decided by the competition organizer.
 . If a victim is knocked down by a robot, it must remain in place unless the team captain declares a Lack of Progress.  
