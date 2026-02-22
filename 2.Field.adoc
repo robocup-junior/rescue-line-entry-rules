@@ -69,7 +69,7 @@ image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
 . Ramps will not exceed an incline of 25 degrees from the horizontal.
 
 . The ramp points will be awarded for each individual ramp tile instead of the entire ramp.
-. The line along the ramps can contain gaps, speed bumps, debris, and intersections and obstacles.
+. The line along the ramps can contain gaps, speed bumps, debris, and obstacles.
 
 . The ramp must NOT have a drop-off immediately following a rise section, creating a peak-line structure or vice versa.
 
@@ -119,4 +119,5 @@ image::media/evac_zone.png[EVAC-ZONES,pdfwidth=70%,align=center]
 
 . The field may be affected by unexpected lighting interference (e.g., camera flash from spectators). Teams should prepare their robots to handle such interference.
 
-. All measurements in the rules  are subject to a ±10% tolerance.
+. All measurements in the rules for items provided by the organizers (such as the field) are subject to a ±10% tolerance.
+
