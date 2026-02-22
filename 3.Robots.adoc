@@ -17,7 +17,7 @@
 
 . Teams are not permitted to use commercially produced robot kits or sensors components specifically designed or marketed to complete any single primary task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament.  If there is any doubt, teams should consult the RoboCupJunior Rescue Committee before the competition.
 
-. Robots may incur damage by falling off the field, making contact with another robot, or contacting field elements. The RoboCupJunior Rescue Committee cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are adequately protected with resistant materials. For example, teams must protect electrical circuits from all human contact and direct contact with other robots and field elements.
+. Robots may incur damage by falling off the field, making contact with another robot, or contacting field elements. The organizer cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are adequately protected with resistant materials. For example, teams must protect electrical circuits from all human contact and direct contact with other robots and field elements.
 
 . When batteries are transported, moved, or charged, it is strongly recommended that safety bags be used. Reasonable efforts should be made to ensure that robots avoid short circuits and chemical or air leaks.
 
@@ -53,7 +53,7 @@
 
 . Students will be asked to explain their robot’s operation to verify that its construction and programming are their own work.
 
-. Students will be asked about their preparation efforts. The RoboCupJunior Rescue Committee may request them to answer surveys and participate in videotaped interviews for research purposes.
+. Students will be asked about their preparation efforts. The RoboCupJunior Rescue Committee may request them to answer surveys and participate in recorded interviews for research purposes.
 
 . All teams must complete a web form before the competition if requested by the organizers. This is to help the judges prepare better for the interview. The organizers will instruct teams in advance on how to submit the form.
 
