@@ -156,7 +156,9 @@ These rules are designed as an introductory version for beginners. Please take c
 
 This document provides a general framework and recommendations for organizing competitions.
 It is not intended to be prescriptive or exhaustive. Each local organizing committee may adapt or modify these guidelines flexibly to meet the needs and circumstances of their community.
+
 The guiding principle is this: challenges must enrich students’ learning and problem-solving—not become obstacles that cause failure due to excessive technicalities. Overly complex or rigid requirements risk shifting focus away from education and but just into rule compliance.
+
 Organizers are therefore encouraged to:
 
 * Prioritize student growth and exploration above strict technical constraints.
@@ -185,9 +187,9 @@ image::media/field_overview.png[FIELD,pdfwidth=100%,align=center]
 
 An autonomous robot should follow a black line while overcoming problems in a modular field formed by tiles with diﬀerent patterns. The floor is white, and the tiles are on diﬀerent levels connected with ramps.
 
-Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the area by itself. The robot earns points as follows:
+Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the area by itself. 
+The robot earns points as follows:
 
-* 10 points for following the correct path on a tile at an intersection.
 * 10 points for overcoming each obstacle (bricks, blocks, weights, and other large, heavy items). A robot is expected to navigate various obstacles.
 * 10 points for reacquiring the line after a tile with one or more gaps.
 * 10 points for each successfully navigated ramp tile .
