@@ -16,7 +16,7 @@
 
 . No one is allowed to touch the fields intentionally during a scoring run.
 
-. All pre-mapping activities will immediately disqualify the robot for the round. Pre-mapping is the act of humans providing the robot with information about the field (e.g., location of the bstacles and the entrance to the evacuation zone, the directions for avoiding obstacles, the layout of black lines, the correct path at intersections, or the placement of victims inside the evacuation zone, etc…) before the game.
+. All pre-mapping activities will immediately disqualify the robot for the round. Pre-mapping is the act of humans providing the robot with information about the field (e.g., location of the bstacles and the entrance to the evacuation zone, the directions for avoiding obstacles, the layout of black lines, or the placement of victims inside the evacuation zone, etc…) before the game.
 
 
 === Start of Game
