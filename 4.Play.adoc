@@ -78,7 +78,7 @@ image::media/lack_of_progress.png[LACK,width=900,pdfwidth=90%,align=center]
 
 === Scoring
 
-. A robot is awarded points for successfully navigating each tile with hazards (gaps in the line, speed bumps, intersections, ramps, and obstacles). Points are awarded per hazard when the robot has reached the next tile in sequence. Point allocations are 10 points per tile with one or more gaps, 10 points per tile with one or more speed bumps, 10 points per intersection, 10 points per ramp. 10 points per obstacle.
+. A robot is awarded points for successfully navigating each tile with hazards (gaps in the line, speed bumps, ramps, and obstacles). Points are awarded per hazard when the robot has reached the next tile in sequence. Point allocations are 10 points per tile with one or more gaps, 10 points per tile with one or more speed bumps, 10 points per ramp. 10 points per obstacle.
 
 . Failed attempts at navigating hazards in the field are defined as a Lack of Progress (see <<loc>>). However, if scoring elements are placed on two consecutive tiles and the robot is unable to reach the second tile due to its difficult placement, then successfully reaching the third tile will count as successfully achieving the scoring elements on both the first and second tiles simultaneously.
 
@@ -94,7 +94,7 @@ image::media/tile_scoring_example_1r.png[SCORINGEX1,width=700,pdfwidth=70%,align
 image::media/tile_scoring_example_2x.png[SCORINGEX2,width=800,pdfwidth=90%,align=center]
 
 
-. Each gap, speed bump, intersection, ramp, and obstacle can only be scored once per intended direction through the course. Points are not awarded for subsequent attempts through the course.
+. Each gap, speed bump, ramp, and obstacle can only be scored once per intended direction through the course. Points are not awarded for subsequent attempts through the course.
 
 . The referees will not count any hazards in the evacuation zone towards additional points. 
 
