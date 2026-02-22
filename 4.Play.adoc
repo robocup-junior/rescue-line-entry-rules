@@ -29,7 +29,7 @@
 
 . A game begins at the scheduled starting time, whether or not the team is present or ready. Start times will be posted around the venue.
 
-. Once the scoring run has begun, the robot is not permitted to leave the competition area.
+. Once the game has begun, the robot is not permitted to leave the competition area.
 
 . Teams may calibrate their robot in as many locations as desired on the field, but the clock will continue to run. Robots are not permitted to move on their own while calibrating.
 
