@@ -15,7 +15,7 @@
 
 . Any robot kit or building blocks, either available on the market or built from raw hardware, may be used as long as the design and construction of the robot are primarily and substantially the students' original work.
 
-. Teams are not permitted to use commercially produced robot kits or sensors components specifically designed or marketed to complete any single primary task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament.  If there is any doubt, teams should consult the RoboCupJunior Rescue Committee before the competition.
+. Teams are not permitted to use cameras or vision-based recognition devices or commercially produced robot kits or sensors components specifically designed or marketed to complete any single primary task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament.  If there is any doubt, teams should consult the RoboCupJunior Rescue Committee before the competition.
 
 . Robots may incur damage by falling off the field, making contact with another robot, or contacting field elements. The organizer cannot anticipate all potential situations where damage to the robot may occur. Teams should ensure that all active elements on a robot are adequately protected with resistant materials. For example, teams must protect electrical circuits from all human contact and direct contact with other robots and field elements.
 
