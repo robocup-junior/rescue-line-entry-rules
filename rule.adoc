@@ -185,7 +185,7 @@ image::media/field_overview.png[FIELD,pdfwidth=100%,align=center]
 [discrete]
 == Summary
 
-An autonomous robot should follow a black line while overcoming problems in a modular field formed by tiles with diﬀerent patterns. The floor is white, and the tiles are on diﬀerent levels connected with ramps.
+An autonomous robot should follow a black line while overcoming problems in a modular field formed by tiles with different patterns. The floor is white, and the tiles are on diffrent levels connected with ramps.
 
 Teams are not allowed to give their robot any information in advance about the field as the robot is supposed to recognize the area by itself. 
 The robot earns points as follows:
