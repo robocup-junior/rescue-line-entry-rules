@@ -138,5 +138,5 @@ A successful exit will be awarded 10 points if the robot meets the following req
 . The game ends when: 
 .. The 6 minutes of allowed game time expires 
 .. The team captain calls the end of the game.
-.. The team get an Exit Bonus
+.. When the Exit Bonus is awarded.
 
