@@ -124,11 +124,10 @@ image::media/evac_point_placement.png[EVAC_POINT_PLACEMENT,pdfwidth=80%,align=ce
 . Exit Bonus
 +
 A successful exit will be awarded 10 points if the robot meets the following requirements:
-Exit perfoemance
-..The robot must have completely entered the Evacuation Zone at least once.
-..The robot must completely exit the Evacuation Zone.
-..The robot must remain completely stationary for 5 seconds.
-..The robot must turn on an LED for 5 seconds. (The color of the LED does not matter.)
+.. a robot must have completely entered the Evacuation Zone at least once.
+.. a robot must completely exit the Evacuation Zone.
+.. a robot must remain completely stationary for 5 seconds.
+.. a robot must turn on an LED for 5 seconds. (The color of the LED does not matter.)
 
 
 === End of Game
@@ -138,5 +137,5 @@ Exit perfoemance
 . The game ends when: 
 .. The 6 minutes of allowed game time expires 
 .. The team captain calls the end of the game.
-.. Once the robot has completely exited the Evacuation Zone and stopped for 5 seconds.
+.. The team get an Exit Bonus
 
