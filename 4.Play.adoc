@@ -71,7 +71,8 @@
 . After three failed attempts to reach a checkpoint, a robot is allowed to proceed to the next checkpoint.
 The team captain may make further attempts at the course to earn additional points from scoring elements that have not already been earned before reaching the next checkpoint.
 
-. If a lack of progress occurs in the evacuation zone, victims (including those that have rolled) shall be returned to any position within the victim area. Rescued victims are not returned. These positions are approximate and not required to be exact. Teams are not allowed to make any requests or complaints regarding the placement of the victims.
+. If a lack of progress occurs in the evacuation zone, unrescued victims (including those that have rolled) shall be returned to any position within the victim area. Rescued victims are not returned. These positions are approximate and not required to be exact. Teams are not allowed to make any requests or complaints regarding the placement of the victims.
+
 
 [.text-center]
 image::media/lack_of_progress.png[LACK,width=900,pdfwidth=90%,align=center]
