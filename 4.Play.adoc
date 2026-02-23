@@ -124,6 +124,7 @@ image::media/evac_point_placement.png[EVAC_POINT_PLACEMENT,pdfwidth=80%,align=ce
 . Exit Bonus
 +
 A successful exit will be awarded 10 points if the robot meets the following requirements:
+
 .. a robot must have completely entered the Evacuation Zone at least once.
 .. a robot must completely exit the Evacuation Zone.
 .. a robot must remain completely stationary for 5 seconds.
