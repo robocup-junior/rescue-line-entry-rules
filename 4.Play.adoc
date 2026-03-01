@@ -116,14 +116,14 @@ image::media/victim_placement.png[VICTIM_PLACEMENT,pdfwidth=80%,align=center]
 +
 Points shall be awarded for each successful victim rescue within the evacuation zone.
 +
-A rescue shall be considered successful when the robot places the victim at the evacuation point and the victim (can) remains standing independently for 10 seconds after the robot has completely moved away.
+A rescue shall be considered successful when the robot places the victim at the evacuation point and the victim (can) remains standing independently for 5 seconds after the robot has completely moved away.
 Each successful rescue shall be worth 30 points.
 +
 image::media/evac_point_placement.png[EVAC_POINT_PLACEMENT,pdfwidth=80%,align=center]
 
 . Exit Bonus
 +
-A successful exit will be awarded 10 points if the robot meets the following requirements:
+A successful exit will be awarded 5 points if the robot meets the following requirements:
 
 .. a robot must have completely entered the Evacuation Zone at least once.
 .. a robot must completely exit the Evacuation Zone.
