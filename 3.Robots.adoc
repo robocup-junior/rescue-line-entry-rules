@@ -25,7 +25,7 @@
 
 . Robots must be equipped with a single physical binary switch/button (with exception of buttons that are a part of a commercial controller), clearly visible to the referee, for starting the robot at the beginning of the run and when a lack of progress occurs. Procedure performed after Lack of progress occurs can only include this button and at most one more switch for cutting the power. The team has to notify the referee about its Lack of progress procedure before each scoring run, and only this procedure is allowed to be performed after a Lack of progress (see <<loc>>).
 
-. The robot must be equipped with a lamp to indicate that it has found a victim. The lamp must be installed so that it is easily visible to the referee from any position. The lamp must remain off except when it is lit for victim identification.
+. The robot must be equipped with a LED to indicate that it has found a victim. The LED must be installed so that it is easily visible to the referee from any position. The LED must remain off except when it is lit for victim identification.
 
 . Robots like drones or hovercrafts are prohibited in the challenge due to safety reasons.
 
