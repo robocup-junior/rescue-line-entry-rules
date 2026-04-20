@@ -40,7 +40,7 @@ endif::[]
 2+^|RoboCupJunior Rescue Entry League Sub-Committee 2025-2026
 2+^|RoboCupJunior Rescue Committee 2026
 
-|[Chair] Evan Bailey
+|Evan Bailey
 |Australia
 |[Chair] Diego Garza Rodriguez 
 |Mexico
