@@ -16,7 +16,7 @@
 
 . Competitors should be aware that tiles may be mounted on thick backing or raised above the floor, which may make it difficult for a robot to return to the course (field) if it leaves the course. No provision will be made to assist a robot in returning to the field if it drives off the field.
 
-. Robots must be designed to navigate under tiles that form bridges over other tiles. Tiles placed above other tiles will be supported by pillars at tile corners with a square cross-section of 25mm x 25mm, making each tile entrance 25 cm. The minimum height (space between the ﬂoor and the ceiling) will be 25 cm.
+. Robots must be designed to navigate under tiles that form bridges over other tiles. Tiles placed above other tiles will be supported by pillars at tile corners with a square cross-section of maximum 25mm x 25mm, making each tile entrance 25 cm. The minimum height (space between the floor and the ceiling) will be at least 25 cm.
 
 
 [[field-line]]
@@ -78,7 +78,7 @@ image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
 
 . The black line will end at the entrance of the evacuation zone.
 
-. The evacuation zone is 120 cm by 90 cm with walls around the four sides at least 10 cm high.
+. The evacuation zone is 120 cm by 90 cm with walls around the four sides at least 10 cm high and of any color (except for red, green, and black). The posts joining the walls of the evacuation zone can be of any color (except for red, green, and black).
 
 . At the entrance to the evacuation zone, there is a 25 mm × 250 mm strip of reflective silver tape on the floor.
 
@@ -90,7 +90,7 @@ image::media/line_examples.jpg[LINE,pdfwidth=60%,align=center]
 
 . The referee can place the evacuation points in any non-entry corner.
 
-. After a Lack of Progress (see <<loc>>) , the referee may place the evacuation points in new corners.
+. After a Lack of Progress (see <<loc>>), the referee may place the evacuation points in new corners.
 
 . The organizers will fix the evacuation points to the floor. Still, teams should be prepared for slight movements in the evacuation points.
 
